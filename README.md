@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Web Frameworks..
 - 🌱 I’m currently learning Web Development, DSA..
 - 💞️ I’m looking to collaborate.
-- 📫 reach me by sundarkarthik@outlook.in
+- 📫 reach me by mail@sundarkarthiks.me
 
 <!---
 Sundar-Karthik/Sundar-Karthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
